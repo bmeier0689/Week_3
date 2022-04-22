@@ -1,19 +1,8 @@
-.container{
-    margin: 0px auto;
-    width: 800px
-}
-
-.header{
+#dojo {
+    width: 400px;
+    height: 200px;
+    background-color: grey;
     display: flex;
-    justify-content: space-between;
     align-items: center;
-}
-
-.nav{
-    display:flex;
-}
-
-li{
-    list-style: none;
-    padding: 0px 15px;
+    justify-content: space-evenly;
 }
